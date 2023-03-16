@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leahoop
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning SpringCloud
+- 👀 I’m interested in Java, Go
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
